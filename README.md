@@ -19,7 +19,7 @@ This project was built as a proof of concept to explore how AI and automation ca
 
 ## Background
 
-While speaking with local contractors I worked with in my real estate business, I noticed a common pattern: many contractors spend most of their day performing the actual work, leaving little time to manage incoming calls, texts, and customer inquiries.
+While speaking with local contractors I work with in my real estate business, I noticed a common pattern: many contractors spend most of their day performing the actual work, leaving little time to manage incoming calls, texts, and customer inquiries.
 
 When a call is missed, the opportunity often disappears. Potential customers move on to the next contractor before receiving a response.
 
