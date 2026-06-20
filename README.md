@@ -118,7 +118,9 @@ Future versions may include:
 * Revenue opportunity tracking
 * Expanded CRM automation
 
-* ## Repository Contents
+---
+
+## Repository Contents
 
 * Executive Summary
 * Detailed Case Study
