@@ -16,6 +16,7 @@ This project focused on improving responsiveness for service contractors by auto
 
 ## Customer Capture Workflow
 
+
 ![Customer Capture Workflow](images/customer-capture-workflow.png)
 *Slide excerpt from the project presentation deck showing the end-to-end customer capture workflow.*
 
