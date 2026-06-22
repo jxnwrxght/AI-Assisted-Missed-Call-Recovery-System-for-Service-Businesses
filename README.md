@@ -4,54 +4,28 @@ An automated customer capture workflow designed to help service businesses respo
 
 ---
 
+## Results at a Glance
+
+- Automated missed-call follow-up
+- Automated missed-text engagement
+- Structured customer information capture
+- Automatic lead logging
+- Contractor notification workflow
+- Reduced risk of losing inbound opportunities
+
 ## Customer Capture Workflow
 
 ![Customer Intake Workflow](Customer%20Capture%20System_Customer%20Intake%20Workflow.png)
 
 ---
 
-## Current Status
+## Background & Problem
 
-Proof-of-concept implementation completed and tested using simulated customer inquiries and workflow automation.
-
-Key Capabilities:
-
-* Missed call detection
-* Automated SMS follow-up
-* AI-assisted customer responses
-* Lead logging
-* Owner notifications
-* Basic CRM integration
-
-This project demonstrates how automation can help service businesses stay responsive even when business owners are unavailable to answer calls and texts in real time.
-
----
-
-## Background
-
-Through conversations with local service contractors, I noticed a common challenge: most spend the majority of their day performing the actual work rather than sitting behind a desk.
-
-Whether they're on a roof, inside an attic, driving between jobs, or meeting with customers, there are long periods where answering calls and responding to texts simply isn't possible.
-
-The issue isn't a lack of responsiveness. It's that contractors are often busy performing the work itself when new inquiries arrive.
-
-During that time, potential customers are often left waiting for a response. Many will contact multiple contractors at once and move on to whoever replies first.
-
-I wanted to explore whether AI and automation could help bridge that gap by responding immediately, collecting basic information, and keeping the conversation alive until the contractor becomes available.
-
----
-
-## Problem
-
-For many service businesses, speed matters.
-
-When a homeowner has a broken air conditioner, leaking pipe, electrical issue, or emergency repair, they often contact several businesses at the same time.
-
-If a contractor misses a call or cannot respond to a text quickly, the opportunity may be lost before they even have a chance to call back.
-
-The challenge isn't generating more leads.
+Through conversations with local service contractors, I noticed a common challenge: most spend the majority of their day busy working. Whether on a roof, inside an attic, working on plumbing, or meeting with customers, there are long periods where answering calls and responding to texts simply isn't possible. During that time, potential customers are often left waiting for a response. Many will contact multiple contractors at once and move on to whoever replies first.
 
 The challenge is preventing interested customers from slipping through the cracks while the contractor is busy serving existing customers.
+
+I wanted to explore whether AI and automation could help bridge that gap by responding immediately, collecting basic information, and keeping the conversation alive until the contractor becomes available.
 
 ---
 
@@ -88,19 +62,6 @@ Many service businesses don't lose opportunities because they lack expertise or 
 Even a simple automated conversation can help keep a customer engaged long enough for the business owner to step in and continue the relationship personally.
 
 This project reinforced the idea that small operational improvements can have a meaningful impact on customer experience and business outcomes.
-
----
-
-## Future Roadmap
-
-Future versions may include:
-
-* Missed call voice transcription
-* Improved lead qualification
-* Appointment scheduling integration
-* Enhanced contractor notifications
-* Service-specific response workflows
-* Expanded CRM functionality
 
 ---
 
