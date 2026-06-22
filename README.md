@@ -8,8 +8,7 @@ An automated customer capture workflow designed to help service businesses respo
 
 • Immediate follow-up after missed calls
 • Reduced risk of losing inbound opportunities
-• Structured customer information capture
-• Automated lead logging
+• Structured customer information capture• Automated lead logging
 • Improved contractor visibility into new inquiries
 • Repeatable workflow requiring minimal manual intervention
 
